@@ -1,0 +1,26 @@
+[
+  {
+    "id": "p0",
+    "title": "Flutter Basics",
+    "instructor": "Alice",
+    "description": "Learn Flutter fundamentals with hands-on examples and mini-projects.",
+    "rating": 4.5,
+    "youtubeId": "fq4N0hgOWzU"
+  },
+  {
+    "id": "p1",
+    "title": "Advanced Dart",
+    "instructor": "Bob",
+    "description": "Master Dart language features like async, streams, and OOP patterns.",
+    "rating": 4.3,
+    "youtubeId": "Ej_Pcr4uC2Q"
+  },
+  {
+    "id": "p2",
+    "title": "UI/UX Design",
+    "instructor": "Clara",
+    "description": "Design modern, responsive user interfaces effectively.",
+    "rating": 4.6,
+    "youtubeId": "mYQ2R4e7r1w"
+  }
+]
