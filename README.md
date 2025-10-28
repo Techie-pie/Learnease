@@ -47,7 +47,7 @@
 **Program:** Excelerate Internship  
 **License:** MIT  
 **Duration:** October 6, 2025 → November 6, 2025  
-**Repository:** [LearnEase GitHub Repository](https://github.com/AbdelrahmanAhmad313/excelerate)  
+**Repository:** [LearnEase GitHub Repository](https://github.com/Techie-pie/Learnease)  
 **Team:** LearnEase (Group - 2)
 
 ---
@@ -116,7 +116,7 @@ Our detailed project proposal outlines every aspect of the LearnEase initiative,
 
 A fully organized repository with Flutter project structure, version control, and initial commits.
 
-🔗 [View Repository on GitHub](https://github.com/AbdelrahmanAhmad313/excelerate)
+🔗 [View Repository on GitHub](https://github.com/Techie-pie/Learnease)
 
 **Features:**
 - Organized Flutter project folder  
@@ -190,7 +190,7 @@ A fully organized repository with Flutter project structure, version control, an
 
 ```bash
 # Clone repository
-git clone https://github.com/AbdelrahmanAhmad313/excelerate.git
+https://github.com/Techie-pie/Learnease
 
 # Navigate to directory
 cd excelerate
