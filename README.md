@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # learnease
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Learnease
+Learnease is a E-learning Platform
+>>>>>>> 72c066a890beeda352051077eccf0a29442cbc83
