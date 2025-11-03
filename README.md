@@ -130,10 +130,10 @@ A fully organized repository with Flutter project structure, version control, an
 
 | Name | Role | Responsibilities |
 |------|------|------------------|
+| **Md Irfan** | Product manager & Lead developer | Represents the team, ensures collaboration, leads full-stack development |
 | **Richmond Acquah** | Project Manager & Developer | Guides design, architecture, SQA, and devops |
 | **Abdelrahman Ahmed** | Team Lead & Developer | Represents the team, ensures collaboration, leads full-stack development |
 | **Muaz Ahmad** | Project Lead & Developer | Oversees project execution and delivery |
-| **Md Irfan** | Developer & Coordinator | Handles Flutter development and UI/UX |
 | **Bright Afatsawo** | Documentation Lead | Creates docs, visuals, and MS Office materials |
 
 
