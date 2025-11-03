@@ -201,6 +201,85 @@ flutter pub get
 # Run app
 flutter run
 ```
+## 🌐 API & JSON Data Structure  
+
+LearnEase uses RESTful APIs and JSON files to manage and display course and user data efficiently.  
+Below is a simplified example of the data structure used within the app:
+
+### 📚 Example — Course Data (from API/JSON)
+```json
+/// Simulated raw JSON data.
+const String mockProgramsJson = '''
+[
+  {
+    "id": "p0",
+    "title": "Flutter Basics: State Management",
+    "instructor": "Alice",
+    "description": "An in-depth hands-on course covering core concepts, practical tasks and mini-projects to solidify learning.",
+    "rating": 4.0,
+    "videoID": "PlKeif7wAzY" 
+  },
+  {
+    "id": "p1",
+    "title": "Advanced Dart: Streams & Futures",
+    "instructor": "Bob",
+    "description": "An in-depth hands-on course covering core concepts, practical tasks and mini-projects to solidify learning.",
+    "rating": 4.1,
+    "videoID": "PlKeif7wAzY"
+  },
+  {
+    "id": "p2",
+    "title": "UI/UX Design for Mobile",
+    "instructor": "Clara",
+    "description": "An in-depth hands-on course covering core concepts, practical tasks and mini-projects to solidify learning.",
+    "rating": 4.2,
+    "videoID": "PlKeif7wAzY"
+  },
+  {
+    "id": "p3",
+    "title": "Data Structures in Dart",
+    "instructor": "Derek",
+    "description": "An in-depth hands-on course covering core concepts, practical tasks and mini-projects to solidify learning.",
+    "rating": 4.3,
+    "videoID": "PlKeif7wAzY"
+  },
+  {
+    "id": "p4",
+    "title": "Algorithms: Sorting and Searching",
+    "instructor": "Alice",
+    "description": "An in-depth hands-on course covering core concepts, practical tasks and mini-projects to solidify learning.",
+    "rating": 4.4,
+    "videoID": "PlKeif7wAzY" 
+  },
+  {
+    "id": "p5",
+    "title": "Intro to ML with Dart",
+    "instructor": "Bob",
+    "description": "An in-depth hands-on course covering core concepts, practical tasks and mini-projects to solidify learning.",
+    "rating": 4.0,
+    "videoID": "PlKeif7wAzY"
+  }
+]
+''';
+````
+
+environment:
+- sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+- flutter:
+- sdk: flutter 
+- youtube_player_flutter: ^9.1.1  
+- cupertino_icons: ^1.0.8
+
+dependencies:
+- flutter_test:
+- sdk: flutter 
+- flutter_lints: ^2.0.0
+### 
+
+
+
 ## 🪪 License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
