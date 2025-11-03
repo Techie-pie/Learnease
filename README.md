@@ -28,7 +28,7 @@
 | 2️⃣ Project Proposal | [Click_Here](https://docs.google.com/document/d/1N79fufYyNrxhGDpnujA8Dp9y4dbrMhKd8vabXLH_J_E/edit?tab=t.0) |
 | 3️⃣ User Flow & Navigation | [Click_Here](https://www.figma.com/design/UNz14hhe4j4DiXbGGgJNP2/Learnease-User-Flow-Diagram?node-id=1-16&t=vJQ2EochfCOx2111-1) |
 | 4️⃣ Wireframe Design | [Click_Here](https://www.figma.com/design/HNxAGBpJ3PJTQjewF7ziLS/Learnease-Wireframes?t=0H0tIOI3EbWalGop-1) |
-| 5️⃣ GitHub Repository | [Click_Here](https://github.com/AbdelrahmanAhmad313/excelerate) |
+| 5️⃣ GitHub Repository | [Click_Here](https://github.com/Techie-pie/Learnease/) |
 | 6️⃣ Team Charter | [Click_Here](https://docs.google.com/document/d/1ji8S0KrHwFEUmiMPjm5JM15FK048s6wjtRFSGYgGqWE/edit?usp=sharing) |
 
  
